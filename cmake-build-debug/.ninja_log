@@ -1,0 +1,16 @@
+# ninja log v5
+1	310	1676827362100621751	CMakeFiles/Calculator.dir/Button.cpp.o	d8c726d35ebec3e9
+1	302	1676827362092901051	CMakeFiles/Calculator.dir/Base.cpp.o	a3873060b41f98eb
+1	434	1676827362224724215	CMakeFiles/Calculator.dir/Calculator.cpp.o	807af0b4abff52ed
+303	599	1676827362390202041	CMakeFiles/Calculator.dir/Helper.cpp.o	6c1ba9de184ed653
+2	253	1676827503549072540	CMakeFiles/Calculator.dir/Keyboard.cpp.o	3dd12e1cf9d90f53
+359	646	1676827362438498735	CMakeFiles/Calculator.dir/Computation.cpp.o	d8851a2e38681487
+1	359	1676827362149173235	CMakeFiles/Calculator.dir/Screen.cpp.o	212a0a8d2f3141f9
+400	708	1676827362499865846	CMakeFiles/Calculator.dir/ShuntingYard.cpp.o	fff9d15163b2b8de
+310	623	1676827362413298520	CMakeFiles/Calculator.dir/Application.cpp.o	bf1947f0a4a2c746
+257	284	1676827606756124763	Calculator	638de486f5e6b27d
+2	338	1676827362126663003	CMakeFiles/Calculator.dir/Font.cpp.o	f4ed29eb461c28c2
+2	257	1676827606726817240	CMakeFiles/Calculator.dir/main.cpp.o	845d616d2529bc09
+338	642	1676827362433369393	CMakeFiles/Calculator.dir/RPN.cpp.o	9d37a8c9ae5f668b
+2	263	1677007451537596219	CMakeFiles/Calculator.dir/MouseEvents.cpp.o	314da2c88be80841
+263	363	1677007451638711979	Calculator	ddf8dfa784ab75ac
